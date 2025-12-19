@@ -1,8 +1,0 @@
-
-{
-  "name": "PixelRent - Pro Gear Rental",
-  "description": "Professional photo and video equipment rental with AI-powered consulting to help you choose the perfect gear for your production.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
